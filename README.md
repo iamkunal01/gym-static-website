@@ -1,0 +1,1 @@
+Gymnast is a static, responsive gym website built using HTML, CSS, and JavaScript to showcase fitness services, trainers, pricing plans, and gym highlights. The project focuses on creating a clean and modern user interface with a white-and-red theme suitable for a professional fitness brand.
